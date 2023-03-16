@@ -1,0 +1,21 @@
+got 1 http line: GET / HTTP/1.1
+got 1 http line: Host: 127.0.0.1:10000
+got 1 http line: User-Agent: ELinks/0.13.2 (textmode; Linux 5.15.0-60-generic x86_64; 157x33-2)
+oop! unknow header User-Agent: ELinks/0.13.2 (textmode; Linux 5.15.0-60-generic x86_64; 157x33-2)
+got 1 http line: Accept: */*
+oop! unknow header Accept: */*
+got 1 http line: Accept-Language: en
+oop! unknow header Accept-Language: en
+got 1 http line: Connection: Keep-Alive
+got 1 http line: 
+
+got 1 http line : GET / HTTP/1.1
+got 1 http line : Host: 127.0.0.1:10000
+got 1 http line : User-Agent: ELinks/0.13.2 (textmode; Linux 5.15.0-60-generic x86_64; 157x33-2)
+oop! unknow header User-Agent: ELinks/0.13.2 (textmode; Linux 5.15.0-60-generic x86_64; 157x33-2)
+got 1 http line : Accept: */*
+oop! unknow header Accept: */*
+got 1 http line : Accept-Language: en
+oop! unknow header Accept-Language: en
+got 1 http line : Connection: Keep-Alive
+got 1 http line : 
